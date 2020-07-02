@@ -14,7 +14,7 @@ I accomplished tasks here:
 - Australia is represented in d3 a little bit different in comparison to spain BE CAREFUL.
 - With each stats the map changes colour depending of the number of infected.
 - Floating tooltip with data over each circle.
-- The jardest part was to match topojson files with our stats (AU states were numbers instead of names so I had to locate them manually).
+- The hardest part was to match topojson files with our stats (AU states were numbers instead of names so I had to locate them manually).
 
 # Install
 
